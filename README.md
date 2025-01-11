@@ -1,5 +1,9 @@
 # Project: Hosting Static Website on AWS using S3, CloudFront with Terraform.
 
+# Architecture Diagram :
+![image (2)](https://github.com/user-attachments/assets/1cde6c57-6114-4143-b8f6-14015c5f1108)
+
+
 ## Problem Statement :
 
 The website stores and serves a significant amount of static content from an Amazon S3 bucket. Users are located across India, 
